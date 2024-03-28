@@ -70,7 +70,7 @@
     "qs": "^6.11.2",
     "resize-observer-polyfill": "^1.5.1",
     "sortablejs": "^1.15.0",
-    "tinymce": "5.10.7",
+    "tinymce": "7.0.0",
     "vditor": "^3.9.6",
     "video-js": "^0.7.0",
     "vue": "^3.3.7",
