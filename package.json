@@ -63,7 +63,7 @@
     "echarts": "^5.4.3",
     "lodash-es": "^4.17.21",
     "nprogress": "^0.2.0",
-    "path-to-regexp": "^6.2.1",
+    "path-to-regexp": "^8.0.0",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.0",
     "print-js": "^1.6.0",
